@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rotulicuriregis07commgoog_0149.png"; bbox 0 0 3564 5849; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1326 2663 2125 2680">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1326 2663 2125 2680">
+     <span class='ocr_line' id='line_1_1' title="bbox 1326 2663 2125 2680; baseline 0 3169"><span class='ocrx_word' id='word_1_1' title='bbox 1326 2663 2125 2680; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 780 2787 2681 2914">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 780 2787 2681 2914">
+     <span class='ocr_line' id='line_1_2' title="bbox 780 2787 2681 2914; baseline 0 -21"><span class='ocrx_word' id='word_1_2' title='bbox 780 2787 1328 2896; x_wconf 86' lang='lat' dir='ltr'>ROTULI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1404 2789 1888 2895; x_wconf 85' lang='lat' dir='ltr'>CURIAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1960 2790 2415 2914; x_wconf 89' lang='lat' dir='ltr'>REGIS,</span> <span class='ocrx_word' id='word_1_5' title='bbox 2496 2794 2681 2897; x_wconf 67' lang='grc' dir='ltr'><strong>διο.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1321 3011 2121 3032">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1321 3011 2121 3032">
+     <span class='ocr_line' id='line_1_3' title="bbox 1321 3011 2121 3032; baseline 0 2817"><span class='ocrx_word' id='word_1_6' title='bbox 1321 3011 2121 3032; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
